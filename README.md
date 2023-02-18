@@ -1,7 +1,7 @@
 # Learn-Shell-scripting
 
 Shell scripting topics.
-
+-----------------
 1. Printing
 2. Comments
 3. Variables
@@ -14,3 +14,4 @@ Shell scripting topics.
 10. redirectories
 11. Project info
 12. Practice
+--------------------------
