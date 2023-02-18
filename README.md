@@ -13,3 +13,4 @@ Shell scripting topics.
 9. quotes
 10. redirectories
 11. Project info
+12. Practice
