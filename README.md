@@ -12,3 +12,4 @@ Shell scripting topics.
 8. exit status
 9. quotes
 10. redirectories
+11. Project info
