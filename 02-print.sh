@@ -16,6 +16,8 @@ echo Hello World
 #\e[0m -- this code is to rest the color
 #if we enable any color, it needs to disable
 
+#we can use double or single quotes, but best practice is double quotes
+
 echo -e "\e[31m Hello World \e[0m"
 echo Hello World
 #\e[0m"
