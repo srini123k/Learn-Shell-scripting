@@ -16,5 +16,6 @@ echo Hello World
 #\e[0m -- this code is to rest the color
 #if we enable any color, it needs to disable
 
-echo -e "\e[31m Hello World
+echo -e "\e[31m Hello World"
+echo Hello World
 #\e[0m"
