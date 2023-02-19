@@ -5,3 +5,8 @@ echo "Hello Good morning, Todays date is  ${DATE}"
 
 DATE=$(date)
 echo "Hello Good morning, Todays date is  ${DATE}"
+
+#Arthamatic substitution
+
+Add=$((2+3))
+echo "Addition of 2+3= ${Add}"
