@@ -10,3 +10,6 @@ echo "Hello Good morning, Todays date is  ${DATE}"
 
 Add=$((2+3))
 echo "Addition of 2+3= ${Add}"
+
+#Accessing variables from shell
+echo x=$x
